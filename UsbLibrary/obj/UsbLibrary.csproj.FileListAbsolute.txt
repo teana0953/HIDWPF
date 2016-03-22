@@ -1,0 +1,13 @@
+C:\DiskD\WatchBPC#\usb hid\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\DiskD\WatchBPC#\usb hid\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\DiskD\WatchBPC#\usb hid\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\DiskD\WatchBPC#\usb hid\UsbLibrary\obj\Debug\UsbLibrary.UsbHidBmp.bmp
+C:\DiskD\WatchBPC#\usb hid\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\DiskD\WatchBPC#\usb hid\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\DiskD\usbhid\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\DiskD\usbhid\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\DiskD\usbhid\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\DiskD\usbhid\UsbLibrary\obj\Debug\UsbLibrary.UsbHidBmp.bmp
+C:\DiskD\usbhid\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\DiskD\usbhid\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\DiskD\usbhid\UsbLibrary\bin\Debug\UsbLibrary.XML

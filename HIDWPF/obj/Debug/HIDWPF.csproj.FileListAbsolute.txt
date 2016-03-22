@@ -1,0 +1,17 @@
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\HIDWPF\bin\Debug\HIDWPF.exe.config
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\HIDWPF\bin\Debug\HIDWPF.exe
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\HIDWPF\bin\Debug\HIDWPF.pdb
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\HIDWPF\bin\Debug\UsbLibrary.dll
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\HIDWPF\bin\Debug\UsbLibrary.pdb
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\HIDWPF\bin\Debug\UsbLibrary.xml
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\HIDWPF\obj\Debug\HIDWPF.csprojResolveAssemblyReference.cache
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\HIDWPF\obj\Debug\MainWindow.g.cs
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\HIDWPF\obj\Debug\App.g.cs
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\HIDWPF\obj\Debug\HIDWPF_MarkupCompile.cache
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\HIDWPF\obj\Debug\HIDWPF_MarkupCompile.lref
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\HIDWPF\obj\Debug\MainWindow.baml
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\HIDWPF\obj\Debug\HIDWPF.g.resources
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\HIDWPF\obj\Debug\HIDWPF.Properties.Resources.resources
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\HIDWPF\obj\Debug\HIDWPF.csproj.GenerateResource.Cache
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\HIDWPF\obj\Debug\HIDWPF.exe
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\HIDWPF\obj\Debug\HIDWPF.pdb

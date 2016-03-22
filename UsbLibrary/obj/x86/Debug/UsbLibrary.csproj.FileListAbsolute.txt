@@ -1,0 +1,6 @@
+C:\Users\tina.liang\Documents\GitHub\BPA100\UsbLibrary\bin\x86\Debug\UsbLibrary.dll
+C:\Users\tina.liang\Documents\GitHub\BPA100\UsbLibrary\bin\x86\Debug\UsbLibrary.pdb
+C:\Users\tina.liang\Documents\GitHub\BPA100\UsbLibrary\bin\x86\Debug\UsbLibrary.XML
+C:\Users\tina.liang\Documents\GitHub\BPA100\UsbLibrary\obj\x86\Debug\UsbLibrary.csprojResolveAssemblyReference.cache
+C:\Users\tina.liang\Documents\GitHub\BPA100\UsbLibrary\obj\x86\Debug\UsbLibrary.dll
+C:\Users\tina.liang\Documents\GitHub\BPA100\UsbLibrary\obj\x86\Debug\UsbLibrary.pdb

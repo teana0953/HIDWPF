@@ -1,0 +1,42 @@
+C:\Users\tina.liang\Downloads\usbhid\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\Users\tina.liang\Downloads\usbhid\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\Users\tina.liang\Downloads\usbhid\UsbLibrary\obj\Debug\UsbLibrary.csprojResolveAssemblyReference.cache
+C:\Users\tina.liang\Downloads\usbhid\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\Users\tina.liang\Downloads\usbhid\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\Users\tina.liang\Downloads\usbhid\UsbLibrary\bin\Debug\UsbLibrary.XML
+D:\microlife\USB HID C#\usbhid\UsbLibrary\bin\Debug\UsbLibrary.XML
+D:\microlife\USB HID C#\usbhid\UsbLibrary\bin\Debug\UsbLibrary.dll
+D:\microlife\USB HID C#\usbhid\UsbLibrary\bin\Debug\UsbLibrary.pdb
+D:\microlife\USB HID C#\usbhid\UsbLibrary\obj\Debug\UsbLibrary.csprojResolveAssemblyReference.cache
+D:\microlife\USB HID C#\usbhid\UsbLibrary\obj\Debug\UsbLibrary.dll
+D:\microlife\USB HID C#\usbhid\UsbLibrary\obj\Debug\UsbLibrary.pdb
+D:\microlife\USB HID C#\usbhid151224\UsbLibrary\bin\Debug\UsbLibrary.XML
+D:\microlife\USB HID C#\usbhid151224\UsbLibrary\obj\Debug\UsbLibrary.csprojResolveAssemblyReference.cache
+D:\microlife\USB HID C#\usbhid151224\UsbLibrary\obj\Debug\UsbLibrary.dll
+D:\microlife\USB HID C#\usbhid151224\UsbLibrary\obj\Debug\UsbLibrary.pdb
+D:\microlife\USB HID C#\usbhid151224\UsbLibrary\bin\Debug\UsbLibrary.dll
+D:\microlife\USB HID C#\usbhid151224\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\WatchBP151229\UsbLibrary\bin\Debug\UsbLibrary.XML
+C:\WatchBP151229\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\WatchBP151229\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\WatchBP151229\UsbLibrary\obj\Debug\UsbLibrary.csprojResolveAssemblyReference.cache
+C:\WatchBP151229\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\WatchBP151229\UsbLibrary\obj\Debug\UsbLibrary.pdb
+D:\microlife\multiLanguage_C#\WatchBP160118(ver.1.1)\UsbLibrary\bin\Debug\UsbLibrary.XML
+D:\microlife\multiLanguage_C#\WatchBP160118(ver.1.1)\UsbLibrary\bin\Debug\UsbLibrary.dll
+D:\microlife\multiLanguage_C#\WatchBP160118(ver.1.1)\UsbLibrary\bin\Debug\UsbLibrary.pdb
+D:\microlife\multiLanguage_C#\WatchBP160118(ver.1.1)\UsbLibrary\obj\Debug\UsbLibrary.csprojResolveAssemblyReference.cache
+D:\microlife\multiLanguage_C#\WatchBP160118(ver.1.1)\UsbLibrary\obj\Debug\UsbLibrary.dll
+D:\microlife\multiLanguage_C#\WatchBP160118(ver.1.1)\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\Users\tina.liang\Documents\GitHub\BPA100\UsbLibrary\bin\Debug\UsbLibrary.XML
+C:\Users\tina.liang\Documents\GitHub\BPA100\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\Users\tina.liang\Documents\GitHub\BPA100\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\Users\tina.liang\Documents\GitHub\BPA100\UsbLibrary\obj\Debug\UsbLibrary.csprojResolveAssemblyReference.cache
+C:\Users\tina.liang\Documents\GitHub\BPA100\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\Users\tina.liang\Documents\GitHub\BPA100\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\UsbLibrary\bin\Debug\UsbLibrary.XML
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\UsbLibrary\obj\Debug\UsbLibrary.csprojResolveAssemblyReference.cache
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\practice\HIDWPF\UsbLibrary\obj\Debug\UsbLibrary.pdb
